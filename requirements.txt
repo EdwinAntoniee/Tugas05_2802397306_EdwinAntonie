@@ -1,0 +1,16 @@
+# Core Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing & Data Analysis
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization & Image Processing
+matplotlib>=3.7.0
+pillow>=9.5.0
+
+# Interactive Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.20.0

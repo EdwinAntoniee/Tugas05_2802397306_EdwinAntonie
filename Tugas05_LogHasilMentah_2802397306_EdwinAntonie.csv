@@ -1,0 +1,6 @@
+Kode,Kondisi Eksperimen,Trainable Params,Learning Rate,Epoch,Durasi Training(s),Accuracy Validation,Macro F1 Test,Accuracy Test
+B1,Baseline from Scratch,11181642,1e-3,6,11.89,0.3289,0.287,0.36
+B2,Feature Extraction,5130,1e-3,20,29.49,0.953,0.9733,0.9733
+B3,Progressive Fine-Tuning,8398858,"layer4: 1e-4, fc: 1e-3",7,10.35,0.9664,0.9733,0.9733
+B4,Uji Kontrol (B3 No-Aug),8398858,"layer4: 1e-4, fc: 1e-3",12,13.05,0.9732,0.9933,0.9933
+B5,MobileNetV3-Small (Bonus),10250,1e-3,14,20.75,0.9262,0.946,0.9467
