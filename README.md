@@ -171,8 +171,8 @@ Tugas05_2802397306_EdwinAntonie/
 ├── requirements.txt                                # Python dependencies for local and Colab environments
 ├── Tugas05_Notebook_2802397306_EdwinAntonie.ipynb  # End-to-end Jupyter Notebook with full experiment runs
 ├── Tugas05_LogHasilMentah_2802397306_EdwinAntonie.csv # Raw quantitative benchmark metrics export
-├── Tugas05_Laporan_2802397306_EdwinAntonie.docx    # Formal academic laboratory report
-├── Tugas05_BagianA_2802397306_EdwinAntonie.docx    # Theoretical assignment answers (Part A)
+├── Tugas05_Laporan_2802397306_EdwinAntonie.pdf    # Formal academic laboratory report (PDF)
+├── Tugas05_BagianA_2802397306_EdwinAntonie.pdf    # Theoretical assignment answers (Part A - PDF)
 └── image/                                          # High-resolution benchmark figures
     ├── c1_loss_curves_comparison.png               # Loss curves for B1, B2, and B3
     ├── c2_accuracy_gap_analysis.png                # Accuracy and generalization gap comparison
